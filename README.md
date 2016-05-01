@@ -32,3 +32,7 @@ This was modeled in Blender 2.75a.
 ### 3D Printing
 A MakerBot Replicator 2  was used to print the parts for this case. Default
  settings were adequate. 
+
+### TODO
+- Increase tolerances so top cover slides into main enclosure, latch slides to hold cable doors shut and doors insert into main enclosure
+- Redesign cable management as doors with latch is not stable or eleant
